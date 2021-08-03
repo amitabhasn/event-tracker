@@ -6,10 +6,10 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Item</column_label>
+        <column_label>Items</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -49,14 +49,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-08-03 15:31:59</sys_created_on>
         <sys_id>1f3175bc1b353010e4c831d7dc4bcb5d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Item</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Items</sys_name>
         <sys_package display_value="Wish List" source="x_678334_wish_list">0d40b97c1b353010e4c831d7dc4bcbc7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">0d40b97c1b353010e4c831d7dc4bcbc7</sys_scope>
         <sys_update_name>sys_dictionary_x_678334_wish_list_wish_item_item</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-08-03 15:31:59</sys_updated_on>
+        <sys_updated_on>2021-08-03 15:46:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
