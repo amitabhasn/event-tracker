@@ -3,7 +3,7 @@ pipeline {
   environment {
     APPSYSID = '0d40b97c1b353010e4c831d7dc4bcbc7'
     BRANCH = "${BRANCH_NAME}"
-    CREDENTIALS = 'Amish@2021'
+    CREDENTIALS = 'chqQXznIX0P3'
     DEVENV = 'https://dev112204.service-now.com/'
     TESTENV = 'https://dev112204.service-now.com/'
     PRODENV = 'https://dev112204.service-now.com/'
